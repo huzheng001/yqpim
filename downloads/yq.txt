@@ -1,6 +1,6 @@
 TODO:
 Change to use XML file format to save data.
-Change to C++.
+Change to C++ or Python(pygtk).
 Change to GTK3.
 
 huzheng
