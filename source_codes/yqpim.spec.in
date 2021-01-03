@@ -1,0 +1,48 @@
+%define ver      @VERSION@
+%define rel      1
+%define prefix   /usr
+
+Summary: Personal information manerger.
+Name: yqpim
+Version: %ver
+Release: %rel
+Copyright: GPL
+Group: Applications/Productivity
+Source: yqpim-%{ver}.tar.gz
+BuildRoot: /var/tmp/%{name}-%{version}-root
+
+URL: http://yqpim.sourceforge.net
+
+Requires: gtk+ >= 1.2
+
+%description
+Yqpim is a personal information manerger.
+
+%prep
+%setup
+
+%build
+if [ ! -f configure ]; then
+  CFLAGS="$MYCFLAGS" ./autogen.sh $MYARCH_FLAGS --prefix=%prefix
+else
+  CFLAGS="$MYCFLAGS" ./configure $MYARCH_FLAGS --prefix=%prefix
+fi
+
+make
+
+%install
+rm -rf $RPM_BUILD_ROOT
+
+make GNOME_DATADIR=$RPM_BUILD_ROOT%{prefix}/share prefix=$RPM_BUILD_ROOT%{prefix} install
+
+%clean
+rm -rf $RPM_BUILD_ROOT
+
+%files
+%defattr(-, root, root)
+
+%{prefix}/bin/yqpim
+%{prefix}/share/sounds/yq
+%{prefix}/share/locale/*/LC_MESSAGES/yqpim.mo
+@HAVE_GNOME_TRUE@%{prefix}/share/gnome/apps/Applications/yqpim.desktop
+@HAVE_GNOME_TRUE@%{prefix}/share/pixmaps/yqpim.png

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=yqpim
+Name[zh_CN.GB2312]=友情强档
+Comment=yq personal information manerger
+Comment[zh_CN.GB2312]=个人信息管理工具
+Exec=yqpim
+Icon=yqpim.png
+Terminal=0
+Type=Application

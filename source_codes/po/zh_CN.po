@@ -1,0 +1,1010 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <forlinux@263.net>, 2001.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: yqpim 0.7.0\n"
+"POT-Creation-Date: 2002-01-26 15:30+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: huzheng <forlinux@263.net>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=GB2312\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/clist.c:25 src/notebook.c:1099
+msgid "Name"
+msgstr "姓名"
+
+#: src/clist.c:25
+msgid "Gender"
+msgstr "性别"
+
+#: src/clist.c:25
+msgid "Last name's ruby"
+msgstr "性氏拼音"
+
+#: src/clist.c:25
+msgid "First name's ruby"
+msgstr "名字拼音"
+
+#: src/clist.c:25
+msgid "Last name"
+msgstr "性氏"
+
+#: src/clist.c:25
+msgid "First name"
+msgstr "名字"
+
+#: src/clist.c:25
+msgid "Title"
+msgstr "职务"
+
+#: src/clist.c:25
+msgid "nickname"
+msgstr "昵称"
+
+#: src/clist.c:26
+msgid "ICQ"
+msgstr "ICQ"
+
+#: src/clist.c:26
+msgid "AIM"
+msgstr "QQ"
+
+#: src/clist.c:26
+msgid "Email"
+msgstr "电子邮件"
+
+#: src/clist.c:26
+msgid "Email2"
+msgstr "电子邮件2"
+
+#: src/clist.c:26
+msgid "Comment"
+msgstr "简介"
+
+#: src/clist.c:26
+msgid "Home street address"
+msgstr "家庭街道地址"
+
+#: src/clist.c:26
+msgid "Home phone"
+msgstr "家庭电话"
+
+#: src/clist.c:27
+msgid "Home Fax"
+msgstr "家庭传真"
+
+#: src/clist.c:27
+msgid "Home city"
+msgstr "家庭-城市"
+
+#: src/clist.c:27
+msgid "Mobile"
+msgstr "移动电话"
+
+#: src/clist.c:27
+msgid "Home state/province"
+msgstr "家庭-省/自治区"
+
+#: src/clist.c:27
+msgid "Home Zip Code"
+msgstr "家庭-邮政编码"
+
+#: src/clist.c:27
+msgid "Home Country/Region"
+msgstr "家庭-国家/地区"
+
+#: src/clist.c:27
+msgid "Home Web Page"
+msgstr "个人主页"
+
+#: src/clist.c:27
+msgid "Company"
+msgstr "公司"
+
+#: src/clist.c:28
+msgid "Job Title"
+msgstr "职务"
+
+#: src/clist.c:28
+msgid "Business Street Address"
+msgstr "公司街道地址"
+
+#: src/clist.c:28
+msgid "Department"
+msgstr "部门"
+
+#: src/clist.c:28
+msgid "Office"
+msgstr "办公室"
+
+#: src/clist.c:28
+msgid "Business City"
+msgstr "业务-城市"
+
+#: src/clist.c:28
+msgid "Business Phone"
+msgstr "业务电话"
+
+#: src/clist.c:28
+msgid "Business Stage/province"
+msgstr "业务-省/自治区"
+
+#: src/clist.c:28
+msgid "Business Fax"
+msgstr "业务传真"
+
+#: src/clist.c:29
+msgid "Business Zip Code"
+msgstr "业务-邮政编码"
+
+#: src/clist.c:29
+msgid "Pager"
+msgstr "寻呼机"
+
+#: src/clist.c:29
+msgid "Business Country/Region"
+msgstr "业务-国家/地区"
+
+#: src/clist.c:29
+msgid "Ip Phone"
+msgstr "IP 电话"
+
+#: src/clist.c:29
+msgid "Business Web Page"
+msgstr "公司网页"
+
+#: src/clist.c:29
+msgid "Spouse"
+msgstr "配偶"
+
+#: src/clist.c:29
+msgid "Birthday"
+msgstr "生日"
+
+#: src/clist.c:29
+msgid "Children"
+msgstr "子女"
+
+#: src/clist.c:29
+msgid "Anniversary"
+msgstr "纪念日"
+
+#: src/clist.c:30
+msgid "Hobbies"
+msgstr "爱好"
+
+#: src/clist.c:30
+msgid "Speciality"
+msgstr "特长"
+
+#: src/clist.c:30
+msgid "Saying"
+msgstr "留言"
+
+#: src/clist.c:30
+msgid "Type"
+msgstr "类型"
+
+#: src/clist.c:30
+msgid "Public Key"
+msgstr "公共密钥"
+
+#: src/clist.c:30
+msgid "Notes"
+msgstr "附注"
+
+#: src/clist.c:150
+msgid "open"
+msgstr "打开"
+
+#: src/clist.c:152
+msgid "cut"
+msgstr "剪切"
+
+#: src/clist.c:154
+msgid "copy"
+msgstr "复制"
+
+#: src/clist.c:156
+msgid "paste"
+msgstr "粘贴"
+
+#: src/clist.c:158
+msgid "select all"
+msgstr "全选"
+
+#: src/clist.c:221
+#, c-format
+msgid "%s +"
+msgstr "%s ↓"
+
+#: src/clist.c:223
+#, c-format
+msgid "%s -"
+msgstr "%s ↑"
+
+#: src/clist.c:285 src/notebook.c:52 src/toolbarfunc.c:285
+#: src/toolbarfunc.c:366 src/treefunc.c:344
+msgid "Female"
+msgstr "女"
+
+#: src/createfile.c:55
+msgid "n=default cvsindex\n"
+msgstr "n=默认CSV序号\n"
+
+#: src/createfile.c:92
+msgid "n=My Contacts\n"
+msgstr "n=我的联系人\n"
+
+#: src/csv.c:64
+msgid "import csv file"
+msgstr "导入CSV文件"
+
+#: src/csv.c:77
+msgid "load"
+msgstr "加载"
+
+#: src/csv.c:83
+msgid "save"
+msgstr "保存"
+
+#: src/csv.c:93 src/csv.c:250 src/dialog.c:55 src/dialog.c:96 src/dialog.c:216
+#: src/notebook.c:299 src/option.c:231
+msgid "OK"
+msgstr "确定"
+
+#: src/csv.c:99 src/csv.c:256 src/dialog.c:103 src/dialog.c:157
+#: src/dialog.c:225 src/menu.c:186 src/notebook.c:308 src/option.c:243
+#: src/toolbar.c:212
+msgid "Cancel"
+msgstr "取消"
+
+#: src/csv.c:107
+msgid "import to index"
+msgstr "导入到序号"
+
+#: src/csv.c:132
+msgid "import index"
+msgstr "导入序号"
+
+#: src/csv.c:135
+msgid "import as"
+msgstr "导入为"
+
+#: src/csv.c:175
+msgid "import to end"
+msgstr "导入到末尾"
+
+#: src/csv.c:179
+msgid "don't import"
+msgstr "不导入"
+
+#: src/csv.c:231
+msgid "load import csv index"
+msgstr "加载导入CSV的对应序号"
+
+#: src/csv.c:244
+msgid "delete"
+msgstr "删除"
+
+#: src/csv.c:300
+msgid "can't delete the default"
+msgstr "不能删除默认序号"
+
+#: src/csv.c:306
+#, c-format
+msgid "Are you sure to delete \"%s\" ?"
+msgstr "确实要删除\"%s\"吗?"
+
+#: src/csv.c:436
+#, c-format
+msgid "my csv index_%d"
+msgstr "我的CSV序号_%d"
+
+#: src/csv.c:437
+msgid "save csv index as:"
+msgstr "保存CSV序号为:"
+
+#: src/csv.c:442
+msgid "the name can't be null !"
+msgstr "名字不能为空!"
+
+#: src/csv.c:490
+msgid "need one import as name"
+msgstr "至少要有一个导入为姓名"
+
+#: src/csv.c:500
+#, c-format
+msgid "the import to index%d is the same as index%d"
+msgstr "不能将第%d个和第%d个导入为同一个字段"
+
+#: src/dialog.c:48 src/dialog.c:89 src/dialog.c:136 src/dialog.c:197
+#: src/main.c:194
+msgid "Yqpim"
+msgstr "友情强档"
+
+#: src/dialog.c:143
+msgid "YES"
+msgstr "是"
+
+#: src/dialog.c:150
+msgid "NO"
+msgstr "否"
+
+#: src/main.c:65
+msgid "modifing the card,save it?"
+msgstr "正在修改,保存吗?"
+
+#: src/main.c:80
+msgid "this yqpim file is changed,save it?"
+msgstr "这个记录薄修改了，保存吗?"
+
+#: src/main.c:209
+msgid "Name: "
+msgstr "名称: "
+
+#: src/main.c:227
+msgid "Ruby Search: "
+msgstr "拼音首字: "
+
+#: src/menu.c:82
+msgid "File"
+msgstr "文件"
+
+#: src/menu.c:85
+msgid "New..."
+msgstr "新建..."
+
+#: src/menu.c:89
+msgid "Open..."
+msgstr "打开..."
+
+#: src/menu.c:92
+msgid "Recent Files"
+msgstr "最近打开文件"
+
+#: src/menu.c:104 src/menu.c:216
+msgid "Close"
+msgstr "关闭"
+
+#: src/menu.c:109
+msgid "Save As..."
+msgstr "另存为..."
+
+#: src/menu.c:115
+msgid "Import"
+msgstr "导入"
+
+#: src/menu.c:117 src/menu.c:125
+msgid "Business card(vcard)..."
+msgstr "名片(vcard)..."
+
+#: src/menu.c:120 src/menu.c:128
+msgid "CSV File..."
+msgstr "CSV文件..."
+
+#: src/menu.c:123
+msgid "Export"
+msgstr "导出"
+
+#: src/menu.c:131
+msgid "Html File..."
+msgstr "Html文件..."
+
+#: src/menu.c:137
+msgid "Exit"
+msgstr "退出"
+
+#. -----------------
+#. * --- Edit menu ---
+#. * -----------------
+#: src/menu.c:143
+msgid "Edit"
+msgstr "编辑"
+
+#: src/menu.c:146 src/toolbar.c:91
+msgid "Cut"
+msgstr "剪切"
+
+#: src/menu.c:150 src/toolbar.c:98
+msgid "Copy"
+msgstr "复制"
+
+#: src/menu.c:154 src/toolbar.c:106
+msgid "Paste"
+msgstr "粘贴"
+
+#: src/menu.c:159
+msgid "Select All"
+msgstr "全选"
+
+#: src/menu.c:161
+msgid "Select Else"
+msgstr "反向选择"
+
+#: src/menu.c:166
+msgid "Find People..."
+msgstr "查找用户..."
+
+#: src/menu.c:169 src/treefunc.c:488 src/yqtree.c:65
+msgid "Contacts"
+msgstr "联系人"
+
+#: src/menu.c:171 src/toolbar.c:126
+msgid "New Contact"
+msgstr "新建联系人"
+
+#: src/menu.c:173 src/toolbar.c:134
+msgid "Delete"
+msgstr "删除"
+
+#: src/menu.c:180
+msgid "Save"
+msgstr "保存"
+
+#: src/menu.c:183
+msgid "Save & New"
+msgstr "保存并增加"
+
+#: src/menu.c:195
+msgid "New Folder..."
+msgstr "新建组..."
+
+#: src/menu.c:198
+msgid "Rename..."
+msgstr "重命名..."
+
+#: src/menu.c:203
+msgid "Tools"
+msgstr "工具"
+
+#: src/menu.c:205
+msgid "Password..."
+msgstr "密码..."
+
+#: src/menu.c:210 src/menufunc.c:1023
+msgid "Trash"
+msgstr "回收站"
+
+#: src/menu.c:212
+msgid "Open"
+msgstr "打开"
+
+#: src/menu.c:214
+msgid "Clean"
+msgstr "清空"
+
+#: src/menu.c:222
+msgid "Preferences..."
+msgstr "选项..."
+
+#. ---------------------
+#. * --- Help sub menu ---
+#. * ---------------------
+#: src/menu.c:230
+msgid "Help"
+msgstr "帮助"
+
+#: src/menu.c:232
+msgid "About..."
+msgstr "关于..."
+
+#: src/menufunc.c:72
+msgid "It is changed,save it?"
+msgstr "这个记录薄修改了，保存吗?"
+
+#: src/menufunc.c:106
+msgid "Save as..."
+msgstr "另存为..."
+
+#: src/menufunc.c:111 src/toolbarfunc.c:1021 src/toolbarfunc.c:1082
+msgid "Please type the file name"
+msgstr "请输入文件名"
+
+#: src/menufunc.c:116 src/menufunc.c:253
+msgid "This file is exist,overwrite?"
+msgstr "文件已经存在，覆盖吗?"
+
+#: src/menufunc.c:142
+msgid "Export to html,please choose the directory"
+msgstr "导出为html文件，请选择文件夹"
+
+#: src/menufunc.c:147
+msgid "This is't a directory,it should end with \"/\""
+msgstr "这不是文件夹，应以\"/\"结尾"
+
+#: src/menufunc.c:169
+msgid ""
+"<html>\n"
+"<head>\n"
+"<meta http-equiv=\"Content-Type\"\n"
+"content=\"text/html; charset= \">\n"
+"<meta name=\"GENERATOR\" content=\"huzheng--yqpim\">\n"
+"<title>"
+msgstr ""
+"<html>\n"
+"<head>\n"
+"<meta http-equiv=\"Content-Type\"\n"
+"content=\"text/html; charset=gb2312\">\n"
+"<meta name=\"GENERATOR\" content=\"huzheng--yqpim\">\n"
+"<title>"
+
+#: src/menufunc.c:245 src/menufunc.c:320 src/menufunc.c:401
+msgid "Export to html file"
+msgstr "导出为html文件"
+
+#: src/menufunc.c:248 src/menufunc.c:325 src/menufunc.c:404
+msgid "Please type the html file name"
+msgstr "请输入html文件名"
+
+#: src/menufunc.c:259 src/menufunc.c:260 src/menufunc.c:415 src/menufunc.c:416
+#: src/yqtree.c:61
+msgid "All Contacts"
+msgstr "所有联系人"
+
+#: src/menufunc.c:289
+msgid "yqpim"
+msgstr "友情强档"
+
+#: src/menufunc.c:330 src/menufunc.c:409 src/menufunc.c:505
+msgid "This file exists,overwrite?"
+msgstr "此文件已经存在，覆盖吗?"
+
+#: src/menufunc.c:495
+msgid "Export to csv file"
+msgstr "导出为CSV文件"
+
+#: src/menufunc.c:500 src/menufunc.c:705
+msgid "Please type the csv file name"
+msgstr "请输入CSV文件名"
+
+#: src/menufunc.c:697
+msgid "please choose yqfile"
+msgstr "请选择yqpim记录薄文件"
+
+#: src/menufunc.c:701
+msgid "Import csv file"
+msgstr "导入CSV文件"
+
+#: src/menufunc.c:988 src/menufunc.c:1054 src/menufunc.c:1090
+msgid "Please select the yqpim file"
+msgstr "请选择yqpim记录薄文件"
+
+#: src/menufunc.c:1116
+msgid "Are you sure you want to clean the trash?"
+msgstr "确实要清空回收站吗?"
+
+#: src/notebook.c:50
+msgid "Unspecified"
+msgstr "未指定"
+
+#: src/notebook.c:51
+msgid "Male"
+msgstr "男"
+
+#: src/notebook.c:265
+msgid "Ruby"
+msgstr "拼音"
+
+#: src/notebook.c:268
+msgid "Ruby Last Name:"
+msgstr "姓氏拼音:"
+
+#: src/notebook.c:272
+msgid "Ruby First Name:"
+msgstr "名字拼音:"
+
+#: src/notebook.c:331
+msgid "Summary of information about this contact"
+msgstr "有关该联系人的信息摘要"
+
+#: src/notebook.c:340
+msgid "Name:"
+msgstr "姓名:"
+
+#: src/notebook.c:347
+msgid "E-Mail Address:"
+msgstr "电子邮件地址:"
+
+#: src/notebook.c:354 src/notebook.c:529
+msgid "ICQ:"
+msgstr "ICQ:"
+
+#: src/notebook.c:361
+msgid "Home Phone:"
+msgstr "家庭电话:"
+
+#: src/notebook.c:368 src/notebook.c:845
+msgid "Pager:"
+msgstr "传呼机:"
+
+#: src/notebook.c:375 src/notebook.c:657
+msgid "Mobile:"
+msgstr "移动电话:"
+
+#: src/notebook.c:382
+msgid "Personal Web Page:"
+msgstr "个人网页:"
+
+#: src/notebook.c:389
+msgid "Business Phone:"
+msgstr "业务电话:"
+
+#: src/notebook.c:396
+msgid "Business Fax:"
+msgstr "业务传真:"
+
+#: src/notebook.c:403 src/notebook.c:747
+msgid "Job Title:"
+msgstr "职务:"
+
+#: src/notebook.c:410 src/notebook.c:775
+msgid "Department:"
+msgstr "部门:"
+
+#: src/notebook.c:417 src/notebook.c:785
+msgid "Office:"
+msgstr "办公室:"
+
+#: src/notebook.c:424
+msgid "Company Name:"
+msgstr "公司名称:"
+
+#: src/notebook.c:431
+msgid "Business Web page:"
+msgstr "业务网页:"
+
+#: src/notebook.c:455
+msgid "Entry name and e-mail information about this contact here."
+msgstr "在此输入该联系人的姓名和电子邮件信息。"
+
+#: src/notebook.c:472
+msgid "Ruby..."
+msgstr "拼音..."
+
+#: src/notebook.c:477
+msgid "Last:"
+msgstr "姓:"
+
+#: src/notebook.c:487
+msgid "First:"
+msgstr "名:"
+
+#: src/notebook.c:497
+msgid "Title:"
+msgstr "职务:"
+
+#: src/notebook.c:507
+msgid "Display:"
+msgstr "显示:"
+
+#: src/notebook.c:516
+msgid "Nickname:"
+msgstr "昵称:"
+
+#: src/notebook.c:539
+msgid "AIM:"
+msgstr "QQ:"
+
+#: src/notebook.c:548
+msgid "Email:"
+msgstr "电子邮件:"
+
+#: src/notebook.c:557
+msgid "Email2:"
+msgstr "电子邮件2:"
+
+#: src/notebook.c:566
+msgid "Comment:"
+msgstr "简介:"
+
+#: src/notebook.c:600
+msgid "Entry home-related information about this contact here."
+msgstr "请输入此联系人的家庭信息。"
+
+#: src/notebook.c:609 src/notebook.c:757
+msgid "Street Address:"
+msgstr "街道地址:"
+
+#: src/notebook.c:627 src/notebook.c:805
+msgid "Phone:"
+msgstr "电话:"
+
+#: src/notebook.c:637 src/notebook.c:825
+msgid "Fax:"
+msgstr "传真:"
+
+#: src/notebook.c:647 src/notebook.c:795
+msgid "City:"
+msgstr "城市:"
+
+#: src/notebook.c:667 src/notebook.c:815
+msgid "State/Province:"
+msgstr "省/自治区:"
+
+#: src/notebook.c:677 src/notebook.c:835
+msgid "Zip Code:"
+msgstr "邮政编码:"
+
+#: src/notebook.c:687 src/notebook.c:855
+msgid "Country/Region:"
+msgstr "国家/地区:"
+
+#: src/notebook.c:697 src/notebook.c:875
+msgid "Web Page:"
+msgstr "网页:"
+
+#: src/notebook.c:728
+msgid "Entry business-related information about this contact here."
+msgstr "请输入该联系人的业务信息。"
+
+#: src/notebook.c:737
+msgid "Company:"
+msgstr "公司:"
+
+#: src/notebook.c:865
+msgid "IP Phone:"
+msgstr "IP 电话:"
+
+#: src/notebook.c:904
+msgid "Entry personal information about this contact here."
+msgstr "请输入该联系人的个人信息。"
+
+#: src/notebook.c:913
+msgid "Gender:"
+msgstr "性别:"
+
+#: src/notebook.c:922
+msgid "Spouse:"
+msgstr "配偶:"
+
+#: src/notebook.c:932
+msgid "Birthday:"
+msgstr "生日:"
+
+#: src/notebook.c:942
+msgid "Children:"
+msgstr "子女:"
+
+#: src/notebook.c:960
+msgid "Anniversary:"
+msgstr "纪念日:"
+
+#: src/notebook.c:970
+msgid "Hobbies:"
+msgstr "爱好:"
+
+#: src/notebook.c:979
+msgid "Speciality:"
+msgstr "特长:"
+
+#: src/notebook.c:988
+msgid "Saying:"
+msgstr "留言:"
+
+#: src/notebook.c:1022
+msgid "Additional information about this contact."
+msgstr "该联系人的其它信息。"
+
+#: src/notebook.c:1032
+msgid "Type:"
+msgstr "类型:"
+
+#: src/notebook.c:1041
+msgid "Public Key:"
+msgstr "公共密钥:"
+
+#: src/notebook.c:1058
+msgid "Notes:"
+msgstr "附注:"
+
+#: src/notebook.c:1095
+msgid "Summary"
+msgstr "摘要"
+
+#: src/notebook.c:1103
+msgid "Home"
+msgstr "住宅"
+
+#: src/notebook.c:1107
+msgid "Business"
+msgstr "业务"
+
+#: src/notebook.c:1111
+msgid "Personal"
+msgstr "个人"
+
+#: src/notebook.c:1115
+msgid "Other"
+msgstr "其它"
+
+#: src/option.c:58
+msgid "Are you sure you want to set to default?"
+msgstr "确实要恢复为默认值吗?"
+
+#: src/option.c:96
+#, c-format
+msgid "Number %d 's name is NULL!"
+msgstr "第%d项的列表名为空!"
+
+#: src/option.c:107
+#, c-format
+msgid "Number %d 's width is NULL!"
+msgstr "第%d项的宽度为空!"
+
+#: src/option.c:216
+msgid "Proferences"
+msgstr "选项"
+
+#: src/option.c:237
+msgid "Reset All"
+msgstr "恢复所有"
+
+#: src/option.c:258
+msgid "Custom the details"
+msgstr "自定义列表"
+
+#: src/option.c:278
+msgid "Ifshow"
+msgstr "显示"
+
+#: src/option.c:281
+msgid "List Name"
+msgstr "列表名"
+
+#: src/option.c:284
+msgid "Width"
+msgstr "宽度"
+
+#: src/option.c:331
+msgid "Misc setting"
+msgstr "其它设置"
+
+#: src/option.c:338
+msgid "Play Sound"
+msgstr "播放声效"
+
+#: src/option.c:350 src/toolbar.c:171
+msgid "About"
+msgstr "关于"
+
+#: src/option.c:366
+msgid ""
+"Yqpim 0.80\n"
+"\n"
+"Author: huzheng\n"
+"http://yqpim.sourceforge.net\n"
+"forlinux@263.net\n"
+"\n"
+"    Released under the GNU Public License    "
+msgstr ""
+"友情强档 0.80\n"
+"\n"
+"作者: 胡正\n"
+"http://forlinux.yeah.net\n"
+"forlinux@263.net\n"
+"\n"
+"    Released under the GNU Public License    "
+
+#: src/toolbar.c:73 src/toolbarfunc.c:1077
+msgid "New Yqpim File"
+msgstr "新建记录薄"
+
+#: src/toolbar.c:81 src/toolbarfunc.c:1017
+msgid "Open Yqpim File"
+msgstr "打开记录薄"
+
+#: src/toolbar.c:115
+msgid "Find People"
+msgstr "查找用户"
+
+#: src/toolbar.c:143 src/toolbarfunc.c:952
+msgid "New Folder"
+msgstr "新建组"
+
+#: src/toolbar.c:151
+msgid "Rename"
+msgstr "重命名"
+
+#: src/toolbar.c:159
+msgid "Setup Password"
+msgstr "设定密码"
+
+#: src/toolbar.c:166
+msgid "Open Trash"
+msgstr "打开回收站"
+
+#: src/toolbar.c:191
+msgid "Go Up"
+msgstr "向上"
+
+#: src/toolbar.c:198
+msgid "Save Contact"
+msgstr "保存联系人"
+
+#: src/toolbar.c:205
+msgid "Save & New Contact"
+msgstr "保存并新建联系人"
+
+#: src/toolbarfunc.c:273
+msgid "Please input the display name"
+msgstr "请输入显示的名称"
+
+#: src/toolbarfunc.c:451
+msgid "Are you sure to clean the trash?"
+msgstr "确实要清空回收站吗?"
+
+#: src/toolbarfunc.c:545 src/toolbarfunc.c:683
+#, c-format
+msgid "Are you sure to delete folder \"%s\"?"
+msgstr "确实要删除组 \"%s\"吗?"
+
+#: src/toolbarfunc.c:594
+msgid "Are you sure to delete?"
+msgstr "确实要删除吗?"
+
+#: src/toolbarfunc.c:952
+msgid "Please input the folder name:"
+msgstr "请输入组名:"
+
+#: src/toolbarfunc.c:957
+msgid "Folder's name can't be NULL!"
+msgstr "组名不能为空!"
+
+#: src/toolbarfunc.c:1049
+#, c-format
+msgid "Rename \"%s\" As:"
+msgstr "重命名\"%s\"为:"
+
+#: src/toolbarfunc.c:1057
+msgid "File name can't be NULL!"
+msgstr "文件名不能为空!"
+
+#: src/toolbarfunc.c:1062
+msgid "The name is the same!"
+msgstr "名称相同！"
+
+#: src/toolbarfunc.c:1087
+msgid "This file exist,overwrite?"
+msgstr "此文件已经存在，覆盖吗?"
+
+#: src/toolbarfunc.c:1304 src/toolbarfunc.c:1325
+msgid "search"
+msgstr "查找"
+
+#: src/toolbarfunc.c:1307
+msgid "Search:"
+msgstr "查找:"
+
+#: src/toolbarfunc.c:1334
+msgid "close"
+msgstr "关闭"
+
+#: src/treefunc.c:372
+msgid "Error while reading file!"
+msgstr "读取文件时出错!"
+
+#: src/treefunc.c:378
+msgid "This is not a yqpim file"
+msgstr "这不是yqpim记录薄文件"
+
+#: src/treefunc.c:386
+msgid "Can't open this version's yqpim file"
+msgstr "不能打开这个版本的yqpim记录薄文件"
+
+#~ msgid "Please select the yqpim file!"
+#~ msgstr "请选择记录薄"
+
+#~ msgid "Skill"
+#~ msgstr "特长"
+
+#~ msgid "Skill:"
+#~ msgstr "特长:"
+
+#~ msgid "About:"
+#~ msgstr "简介:"

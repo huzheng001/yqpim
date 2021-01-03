@@ -1,0 +1,8 @@
+o Compile and install:
+    type:
+       $ ./configure
+       $ make
+       $ make install (become root)
+
+you will see it in gnome menu->program->applications
+or type yqpim to run it

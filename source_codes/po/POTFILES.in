@@ -1,0 +1,17 @@
+src/clist.c
+src/configfile.c
+src/createfile.c
+src/csv.c
+src/dialog.c
+src/list.c
+src/main.c
+src/menu.c
+src/menufunc.c
+src/misc.c
+src/notebook.c
+src/option.c
+src/toolbar.c
+src/toolbarfunc.c
+src/treefunc.c
+src/yqtree.c
+src/yqtreeitem.c

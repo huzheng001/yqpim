@@ -1,0 +1,48 @@
+0.80  (2002/1/26)
+====================================================================
+the exam was end at 1/17,i begin programming until today,tomorrow i need go home(no computer there).
+	* notebook is fresh new and nice.
+	* ruby search.
+	* english and chinese language surported.i hope someone can give me other language's po file.
+	* when find a card and select it,the tree will move to the right page.
+	* small bug fixed.some place make it easy to use.
+	
+0.70  (2001/12/31)
+====================================================================
+the ibm linux professional institute 101 and 102 cost me one month's time,and i programed a tool for scu bbs,it cost half a month too.
+12/23 i begain program yqpim.
+	* find dialog.
+	* clist's sort is better
+	* you can use ./configure;make;make install to install now
+	* rpm support.
+	* new icon of window.
+	* intl support...but the po file is not added because the next version will change a lot.
+
+0.60  (2001/11/4)
+====================================================================
+i come to the sichuan univesity,and cost one month to make me live well in university.then i began programing.the code increased to 7000 lines.
+	* double chick treeitem will open the treeitm.
+	* changed the icon of boy and girl,added sound.
+	* clist can sort now.and supported multiselection
+	* export to csv,html file,import csv file
+	* go up button,name search entry.and the sortkey for delete.
+	* all contracts treeitem.
+
+
+0.50  (2001/08/29)
+====================================================================
+the version changed to 0.50,not 0.05.this month i cost time on review the code that i program one year ago,and make the code easy to develope more.
+
+0.04  (2001/08/01)
+====================================================================
+i can use computer again.the 0.04 realized,it only fixed the program that can't display chinese on redhat linux.
+
+0.03  (2000/07/31)
+====================================================================
+2000/05 I begin to study c and gtk+,and programed a program that only can exit :) it have menu and toolbar,but no use.this is yq0.01
+2000/07 the holiday came,i have free time.
+2000/07/10 0.015 have tree and notebook
+2000/07/20 0.02 have file operating
+2000/07/30 0.03 it can use now. testd in turbolinux3.02
+then the holiday is over...i am in grade 3,and i can't play computer any more.it lasted for one year :(
+yqpim first release.
